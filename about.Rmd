@@ -8,3 +8,20 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My name is **Varun Khedkar** and I go to Lexington High School. I am in a robotics team and I like organic chemistry.
+
+## About the Project
+Include a title and description of your project later. Don't forget to italicize the *Title of your Project*.
+
+### Goals
+*Elaborate on an idea for a final project
+
+  +Potential Project Idea: Dependence of success on IQ
+
+*Decide how the data for this project will be accessed
+
+"This is data science"  
+~Preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
