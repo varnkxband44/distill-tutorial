@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\nAbout Me\nMy name is Varun Khedkar and I go to Lexington High\nSchool. I am in a robotics team and I like organic chemistry.\nAbout the Project\nInclude a title and description of your project later. Don’t forget\nto italicize the Title of your Project.\nGoals\n*Elaborate on an idea for a final project +Potential Project Idea:\nDependence of success on IQ\n*Decide how the data for this project will be accessed\n“This is data science”\n~Preceptor\nKane’s Free High School\nData Science Bootcamp\n\n\n\n",
-      "last_modified": "2022-08-08T19:19:29-04:00"
+      "contents": "\nAbout Me\nMy name is Varun Khedkar and I go to Lexington High\nSchool. I am in a robotics team and I like organic chemistry.\nAbout the Project\nInclude a title and description of your project later. Don’t forget\nto italicize the Title of your Project.\nGoals\n*Elaborate on an idea for a final project\n+Potential Project Idea: Dependence of success on IQ\n*Decide how the data for this project will be accessed\n“This is data science”\n~Preceptor\nKane’s Free High School\nData Science Bootcamp\n\n\n\n",
+      "last_modified": "2022-08-08T19:45:50-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,35 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-08-08T19:19:34-04:00"
+      "last_modified": "2022-08-08T19:45:54-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "title": "Source A",
+      "description": "Detailed notes for Source A\n",
+      "author": [
+        {
+          "name": "Varun Khedkar",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2022-08-08T19:45:55-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source B\n",
+      "author": [
+        {
+          "name": "Varun Khedkar",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2022-08-08T19:45:56-04:00"
     }
   ],
   "collections": []
